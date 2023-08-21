@@ -6,7 +6,7 @@ Organised by SMEE - Society of Monash Electrical Engineers
 
 Components used included:
 - Arduino Uno
-- H bridge motor drivers
+- L293D H bridge motor drivers
 - HC-SR04 Ultrasonic distance sensors
 - HM10 Bluetooth modules (not shown in images)
 - TCS3200 Colour sensor (not shown in images)
